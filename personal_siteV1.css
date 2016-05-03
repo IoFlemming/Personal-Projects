@@ -9,4 +9,17 @@ body{
   /*vh stands for "Viewport Height"*/
   height: 100vh;
   width: 960px;
+  color: white;
+}
+nav ul{
+  padding-left: 0;
+  border: solid 1px white;
+}
+nav ul li{
+  list-style: none;
+}
+#banner{
+  height: 150px;
+  background: white;
+  width: 100%;
 }
