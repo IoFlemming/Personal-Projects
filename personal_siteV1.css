@@ -1,3 +1,12 @@
 body{
  background-color: black;
+ padding: 0;
+ margin: 0;
+}
+.wrap{
+  border: solid 1px white;
+  margin: 0 auto;
+  /*vh stands for "Viewport Height"*/
+  height: 100vh;
+  width: 960px;
 }
