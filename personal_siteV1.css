@@ -14,9 +14,11 @@ body{
 nav ul{
   padding-left: 0;
   border: solid 1px white;
+  width: 25%;
 }
 nav ul li{
   list-style: none;
+  border: solid 1px white;
 }
 #banner{
   height: 150px;
